@@ -23,21 +23,21 @@ hips_order_min       = 0
 hips_tile_width      = 512
 #hips_service_url    = ex: http://yourHipsServer/p itoncek
 hips_status          = public master clonableOnce
-hips_initial_ra      = 83.90895
-hips_initial_dec     = -1.65897
-hips_initial_fov     = 24.2757
+hips_initial_ra      = 84.174
+hips_initial_dec     = -0.59313
+hips_initial_fov     = 27.69373
 hips_pixel_scale     = 0.001789
-s_pixel_scale        = 0.002905
+s_pixel_scale        = 0.002887
 dataproduct_type     = image
-hipsgen_date         = 2024-01-22T22:32Z
+hipsgen_date         = 2024-01-25T19:49Z
 hipsgen_params       = in=./itoncekhi out=./public/itoncek maxThread=20 cache=./cache/aladin cacheRemoveOnExit=false order=6 id=HERE/p/itoncek color=png mode=overlayFading
 hips_overlay         = overlayMean mergeOverwrite treeMean
-hips_release_date    = 2024-01-22T22:33Z
+hips_release_date    = 2024-01-25T19:50Z
 hips_tile_format     = png
-moc_sky_fraction     = 0.01021
-hips_creation_date   = 2024-01-22T22:32Z
-hipsgen_date_1       = 2024-01-22T22:32Z
+moc_sky_fraction     = 0.01186
+hips_creation_date   = 2024-01-25T19:50Z
+hipsgen_date_1       = 2024-01-25T19:50Z
 hipsgen_params_1     = out=./public/itoncek maxThread=20 "pixelCut=-8000 16000 sqrt" cache=./cache/aladin cacheRemoveOnExit=false PNG
 hips_sampling        = bilinear
-hipsgen_date_2       = 2024-01-22T22:33Z
+hipsgen_date_2       = 2024-01-25T19:50Z
 hipsgen_params_2     = out=./public/itoncek maxThread=20 cacheRemoveOnExit=false TRIM
